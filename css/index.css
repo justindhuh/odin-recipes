@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+.heading {
+    color: white;
+}
+
+.recipe,
+.recipe-bullet {
+    color: white
+}
